@@ -1,1 +1,1 @@
-https://themecalc.netlify.app
+https://calctheme.netlify.app
